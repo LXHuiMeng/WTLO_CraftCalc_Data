@@ -1,0 +1,31 @@
+{
+  "prices": {
+    "铜": 5000,
+    "塑料瓶儿": 200,
+    "火药": 12000,
+    "12Ga M1大砂弹": 85000
+  },
+  "itemMetadata": {
+    "铜": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "12Ga M1大砂弹": {
+      "category": "Ammo",
+      "history": [],
+      "traders": []
+    },
+    "火药": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "塑料瓶儿": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    }
+  },
+  "lastUpdated": 1766698602519
+}
