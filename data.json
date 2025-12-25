@@ -91,16 +91,5 @@
       "traders": []
     }
   },
-  "ownedStations": {
-    "子弹制压机": 1,
-    "压机": 1,
-    "化学站": 1
-  },
-  "craftingStrategies": {
-    "大型雷管": "BUY",
-    "12 Ga. 弹壳": "CRAFT",
-    "12Ga M1大砂弹": "CRAFT",
-    "铜": "CRAFT"
-  },
-  "lastUpdated": 1766697294682
+  "lastUpdated": 1766698136593
 }
