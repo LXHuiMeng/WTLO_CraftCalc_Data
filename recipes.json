@@ -45,20 +45,6 @@
       "station": "压机"
     },
     {
-      "id": "12Ga 大砂弹",
-      "output": "12Ga 大砂弹",
-      "outputQuantity": 1,
-      "ingredients": [
-        {
-          "name": "铅",
-          "quantity": 14
-        }
-      ],
-      "rawString": "",
-      "craftTime": 60,
-      "station": "工作台"
-    },
-    {
       "id": "大型雷管",
       "output": "大型雷管",
       "outputQuantity": 1000,
@@ -74,6 +60,20 @@
       ],
       "rawString": "大型雷管 * 1k = 铜 * 1 + 炸药 * 1",
       "craftTime": 180,
+      "station": "压机"
+    },
+    {
+      "id": "12Ga 大砂弹",
+      "output": "12Ga 大砂弹",
+      "outputQuantity": 1,
+      "ingredients": [
+        {
+          "name": "铅",
+          "quantity": 14
+        }
+      ],
+      "rawString": "12Ga 大砂弹 * 1 = 铅 * 14",
+      "craftTime": 60,
       "station": "压机"
     },
     {
@@ -94,9 +94,10 @@
           "quantity": 1
         }
       ],
-      "rawString": "",
+      "rawString": "火药 * 1 = 木炭 * 10 + 硫磺 * 3 + 硝化甘油 * 1",
       "craftTime": 60,
-      "station": "工作台"
+      "station": "化学站"
     }
-  ]
+  ],
+  "lastUpdated": 1766723155542
 }
