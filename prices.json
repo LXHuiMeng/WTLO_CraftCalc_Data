@@ -1,3 +1,218 @@
 {
-  "lastUpdated": 1766722211122
+  "prices": {
+    "铜": 1600,
+    "塑料瓶儿": 2,
+    "火药": 800,
+    "12Ga M1大砂弹": 18.29,
+    "铅": 434,
+    "硝化甘油": 550
+  },
+  "itemMetadata": {
+    "铜": {
+      "category": "Materials",
+      "history": [
+        {
+          "t": 1766718000000,
+          "h": 1600,
+          "l": 0,
+          "c": 1600
+        }
+      ],
+      "traders": [
+        {
+          "id": "1766718067669",
+          "region": "K村",
+          "price": 1600,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 1600,
+              "l": 1600,
+              "c": 1600
+            }
+          ]
+        }
+      ],
+      "priceSource": "K村"
+    },
+    "12Ga M1大砂弹": {
+      "category": "Ammo",
+      "history": [
+        {
+          "t": 1766718000000,
+          "h": 18.29,
+          "l": 18.29,
+          "c": 18.29
+        }
+      ],
+      "traders": [
+        {
+          "id": "1766718015260",
+          "region": "K村",
+          "price": 18.29,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 85000,
+              "l": 1,
+              "c": 18.29
+            }
+          ]
+        },
+        {
+          "id": "1766718650478",
+          "region": "隧道",
+          "price": 18.29,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 18.29,
+              "l": 18.29,
+              "c": 18.29
+            }
+          ]
+        }
+      ],
+      "priceSource": "K村"
+    },
+    "火药": {
+      "category": "Materials",
+      "history": [
+        {
+          "t": 1766718000000,
+          "h": 800,
+          "l": 8,
+          "c": 800
+        }
+      ],
+      "traders": [
+        {
+          "id": "1766718340456",
+          "region": "K村",
+          "price": 800,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 800,
+              "l": 800,
+              "c": 800
+            }
+          ]
+        }
+      ],
+      "priceSource": "Manual"
+    },
+    "塑料瓶儿": {
+      "category": "Materials",
+      "history": [
+        {
+          "t": 1766718000000,
+          "h": 2,
+          "l": 2,
+          "c": 2
+        }
+      ],
+      "traders": [
+        {
+          "id": "1766718384399",
+          "region": "K村",
+          "price": 2,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 2,
+              "l": 2,
+              "c": 2
+            }
+          ]
+        }
+      ],
+      "priceSource": "Manual"
+    },
+    "铅": {
+      "category": "Materials",
+      "traders": [
+        {
+          "id": "1766718294339",
+          "region": "K村",
+          "price": 434,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 434,
+              "l": 434,
+              "c": 434
+            }
+          ]
+        }
+      ],
+      "history": [
+        {
+          "t": 1766718000000,
+          "h": 434,
+          "l": 4,
+          "c": 434
+        }
+      ],
+      "priceSource": "Manual"
+    },
+    "硝化甘油": {
+      "category": "Materials",
+      "traders": [
+        {
+          "id": "1766718317527",
+          "region": "K村",
+          "price": 550,
+          "history": [
+            {
+              "t": 1766718000000,
+              "h": 550,
+              "l": 550,
+              "c": 550
+            }
+          ]
+        }
+      ],
+      "history": [
+        {
+          "t": 1766718000000,
+          "h": 550,
+          "l": 5,
+          "c": 550
+        }
+      ],
+      "priceSource": "Manual"
+    },
+    "雷酸汞": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "硫磺": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "木炭": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "大型雷管": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "12Ga 大砂弹": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "12 Ga. 弹壳": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    }
+  },
+  "lastUpdated": 1766723259028
 }
