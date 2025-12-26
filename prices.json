@@ -1,11 +1,11 @@
 {
   "prices": {
     "铜": 1600,
-    "塑料瓶儿": 2,
     "火药": 800,
     "12Ga M1大砂弹": 18.29,
     "铅": 434,
-    "硝化甘油": 550
+    "硝化甘油": 550,
+    "塑料瓶儿": 2
   },
   "itemMetadata": {
     "铜": {
@@ -73,7 +73,7 @@
           ]
         }
       ],
-      "priceSource": "K村"
+      "priceSource": "隧道"
     },
     "火药": {
       "category": "Materials",
@@ -129,6 +129,11 @@
       ],
       "priceSource": "Manual"
     },
+    "雷酸汞": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
     "铅": {
       "category": "Materials",
       "traders": [
@@ -155,6 +160,16 @@
         }
       ],
       "priceSource": "Manual"
+    },
+    "木炭": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
+    },
+    "硫磺": {
+      "category": "Materials",
+      "history": [],
+      "traders": []
     },
     "硝化甘油": {
       "category": "Materials",
@@ -183,21 +198,6 @@
       ],
       "priceSource": "Manual"
     },
-    "雷酸汞": {
-      "category": "Materials",
-      "history": [],
-      "traders": []
-    },
-    "硫磺": {
-      "category": "Materials",
-      "history": [],
-      "traders": []
-    },
-    "木炭": {
-      "category": "Materials",
-      "history": [],
-      "traders": []
-    },
     "大型雷管": {
       "category": "Materials",
       "history": [],
@@ -214,5 +214,5 @@
       "traders": []
     }
   },
-  "lastUpdated": 1766723259028
+  "lastUpdated": 1766752570459
 }
