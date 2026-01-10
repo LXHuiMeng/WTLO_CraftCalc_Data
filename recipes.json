@@ -1,24 +1,6 @@
 {
   "recipes": [
     {
-      "id": "大型雷管",
-      "output": "大型雷管",
-      "outputQuantity": 2000,
-      "ingredients": [
-        {
-          "name": "铜",
-          "quantity": 1
-        },
-        {
-          "name": "雷酸汞",
-          "quantity": 1
-        }
-      ],
-      "rawString": "大型雷管 * 1k = 铜 * 1 + 炸药 * 1",
-      "craftTime": 180,
-      "station": "压机"
-    },
-    {
       "id": "12Ga M1大砂弹",
       "output": "12Ga M1大砂弹",
       "outputQuantity": 1000,
@@ -63,6 +45,24 @@
       "station": "压机"
     },
     {
+      "id": "大型雷管",
+      "output": "大型雷管",
+      "outputQuantity": 2000,
+      "ingredients": [
+        {
+          "name": "铜",
+          "quantity": 1
+        },
+        {
+          "name": "雷酸汞",
+          "quantity": 1
+        }
+      ],
+      "rawString": "大型雷管 * 1k = 铜 * 1 + 炸药 * 1",
+      "craftTime": 180,
+      "station": "压机"
+    },
+    {
       "id": "12Ga 大砂弹",
       "output": "12Ga 大砂弹",
       "outputQuantity": 1000,
@@ -99,5 +99,5 @@
       "station": "化学站"
     }
   ],
-  "lastUpdated": 1766752565195
+  "lastUpdated": 1768034029376
 }
