@@ -1,22 +1,27 @@
-[
-  {
-    "item_name": "铜",
-    "active_price": 1600
+{
+  "铜": {
+    "regions": {
+      "隧道": 1600
+    }
   },
-  {
-    "item_name": "火药",
-    "active_price": 800
+  "火药": {
+    "regions": {
+      "隧道": 800
+    }
   },
-  {
-    "item_name": "12Ga M1大砂弹",
-    "active_price": 18
+  "12Ga M1大砂弹": {
+    "regions": {
+      "隧道": 18
+    }
   },
-  {
-    "item_name": "铅",
-    "active_price": 434
+  "铅": {
+    "regions": {
+      "隧道": 434
+    }
   },
-  {
-    "item_name": "硝化甘油",
-    "active_price": 550
+  "硝化甘油": {
+    "regions": {
+      "隧道": 550
+    }
   }
-]
+}
