@@ -1,0 +1,22 @@
+[
+  {
+    "item_name": "铜",
+    "active_price": 1600
+  },
+  {
+    "item_name": "火药",
+    "active_price": 800
+  },
+  {
+    "item_name": "12Ga M1大砂弹",
+    "active_price": 18
+  },
+  {
+    "item_name": "铅",
+    "active_price": 434
+  },
+  {
+    "item_name": "硝化甘油",
+    "active_price": 550
+  }
+]
