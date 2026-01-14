@@ -1,109 +1,206 @@
 {
   "recipes": [
     {
-      "id": "item_3197c6ab",
-      "output": "item_3197c6ab",
+      "id": "3197c6ab",
+      "output": "3197c6ab",
       "outputQuantity": 1000,
       "ingredients": [
         {
-          "name": "item_3984571b",
+          "name": "3984571b",
           "quantity": 1000
         },
         {
-          "name": "item_29e225ce",
+          "name": "29e225ce",
           "quantity": 1000
         },
         {
-          "name": "item_4903bbe7",
+          "name": "4903bbe7",
           "quantity": 1000
         },
         {
-          "name": "item_e2064",
+          "name": "e2064",
           "quantity": 6
         }
       ],
       "craftTime": 600,
-      "station": "item_334a7f3c"
+      "station": "334a7f3c"
     },
     {
-      "id": "item_3984571b",
-      "output": "item_3984571b",
+      "id": "3984571b",
+      "output": "3984571b",
       "outputQuantity": 1000,
       "ingredients": [
         {
-          "name": "item_94dc",
+          "name": "94dc",
           "quantity": 1
         },
         {
-          "name": "item_29b15871",
+          "name": "29b15871",
           "quantity": 38
         }
       ],
       "craftTime": 300,
-      "station": "item_a850f"
+      "station": "a850f"
     },
     {
-      "id": "item_29e225ce",
-      "output": "item_29e225ce",
+      "id": "29e225ce",
+      "output": "29e225ce",
       "outputQuantity": 2000,
       "ingredients": [
         {
-          "name": "item_94dc",
+          "name": "94dc",
           "quantity": 1
         },
         {
-          "name": "item_248bf1d",
+          "name": "248bf1d",
           "quantity": 1
         }
       ],
       "craftTime": 180,
-      "station": "item_a850f"
+      "station": "a850f"
     },
     {
-      "id": "item_4903bbe7",
-      "output": "item_4903bbe7",
+      "id": "4903bbe7",
+      "output": "4903bbe7",
       "outputQuantity": 1000,
       "ingredients": [
         {
-          "name": "item_94c5",
+          "name": "94c5",
           "quantity": 14
         }
       ],
       "craftTime": 300,
-      "station": "item_a850f"
+      "station": "a850f"
     },
     {
-      "id": "item_e2064",
-      "output": "item_e2064",
+      "id": "e2064",
+      "output": "e2064",
       "outputQuantity": 4,
       "ingredients": [
         {
-          "name": "item_cee85",
+          "name": "cee85",
           "quantity": 10
         },
         {
-          "name": "item_f0def",
+          "name": "f0def",
           "quantity": 3
         },
         {
-          "name": "item_37fd4eba",
+          "name": "37fd4eba",
           "quantity": 1
         }
       ],
       "craftTime": 300,
-      "station": "item_14371c9"
+      "station": "14371c9"
+    },
+    {
+      "id": "4d87e33c",
+      "output": "4d87e33c",
+      "outputQuantity": 1000,
+      "ingredients": [
+        {
+          "name": "d3a4cff",
+          "quantity": 1000
+        },
+        {
+          "name": "286ef37b",
+          "quantity": 1000
+        },
+        {
+          "name": "4d071fa6",
+          "quantity": 1000
+        },
+        {
+          "name": "753d40cb",
+          "quantity": 6
+        }
+      ],
+      "craftTime": 600,
+      "station": "4ef757e8"
+    },
+    {
+      "id": "d3a4cff",
+      "output": "d3a4cff",
+      "outputQuantity": 1000,
+      "ingredients": [
+        {
+          "name": "7fbb157a",
+          "quantity": 1
+        },
+        {
+          "name": "2d9a3201",
+          "quantity": 38
+        }
+      ],
+      "craftTime": 300,
+      "station": "7572d258"
+    },
+    {
+      "id": "286ef37b",
+      "output": "286ef37b",
+      "outputQuantity": 2000,
+      "ingredients": [
+        {
+          "name": "7fbb157a",
+          "quantity": 1
+        },
+        {
+          "name": "5f2127a1",
+          "quantity": 1
+        }
+      ],
+      "craftTime": 180,
+      "station": "7572d258"
+    },
+    {
+      "id": "4d071fa6",
+      "output": "4d071fa6",
+      "outputQuantity": 1000,
+      "ingredients": [
+        {
+          "name": "7fbb15c7",
+          "quantity": 14
+        }
+      ],
+      "craftTime": 300,
+      "station": "7572d258"
+    },
+    {
+      "id": "753d40cb",
+      "output": "753d40cb",
+      "outputQuantity": 4,
+      "ingredients": [
+        {
+          "name": "754179ac",
+          "quantity": 10
+        },
+        {
+          "name": "752f48f1",
+          "quantity": 3
+        },
+        {
+          "name": "25e33082",
+          "quantity": 1
+        }
+      ],
+      "craftTime": 300,
+      "station": "29e029d4"
     }
   ],
   "categories": {
-    "item_94dc": "Materials",
-    "item_3197c6ab": "Ammo",
-    "item_e2064": "Materials",
-    "item_29b15871": "Materials",
-    "item_248bf1d": "Materials",
-    "item_94c5": "Materials",
-    "item_cee85": "Materials",
-    "item_f0def": "Materials",
-    "item_37fd4eba": "Materials"
+    "94dc": "Materials",
+    "3197c6ab": "Ammo",
+    "e2064": "Materials",
+    "29b15871": "Materials",
+    "248bf1d": "Materials",
+    "94c5": "Materials",
+    "cee85": "Materials",
+    "f0def": "Materials",
+    "37fd4eba": "Materials",
+    "2d9a3201": "Materials",
+    "5f2127a1": "Materials",
+    "754179ac": "Materials",
+    "752f48f1": "Materials"
   },
-  "lastUpdated": 1768371719454
+  "lastUpdated": 1768375208669
 }
