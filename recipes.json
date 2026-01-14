@@ -1,0 +1,109 @@
+{
+  "recipes": [
+    {
+      "id": "12Ga M1大砂弹",
+      "output": "12Ga M1大砂弹",
+      "outputQuantity": 1000,
+      "ingredients": [
+        {
+          "name": "12 Ga. 弹壳",
+          "quantity": 1000
+        },
+        {
+          "name": "大型雷管",
+          "quantity": 1000
+        },
+        {
+          "name": "12Ga 大砂弹",
+          "quantity": 1000
+        },
+        {
+          "name": "火药",
+          "quantity": 6
+        }
+      ],
+      "craftTime": 600,
+      "station": "子弹制压机"
+    },
+    {
+      "id": "12 Ga. 弹壳",
+      "output": "12 Ga. 弹壳",
+      "outputQuantity": 1000,
+      "ingredients": [
+        {
+          "name": "铜",
+          "quantity": 1
+        },
+        {
+          "name": "塑料瓶儿",
+          "quantity": 38
+        }
+      ],
+      "craftTime": 300,
+      "station": "压机"
+    },
+    {
+      "id": "大型雷管",
+      "output": "大型雷管",
+      "outputQuantity": 2000,
+      "ingredients": [
+        {
+          "name": "铜",
+          "quantity": 1
+        },
+        {
+          "name": "雷酸汞",
+          "quantity": 1
+        }
+      ],
+      "craftTime": 180,
+      "station": "压机"
+    },
+    {
+      "id": "12Ga 大砂弹",
+      "output": "12Ga 大砂弹",
+      "outputQuantity": 1000,
+      "ingredients": [
+        {
+          "name": "铅",
+          "quantity": 14
+        }
+      ],
+      "craftTime": 300,
+      "station": "压机"
+    },
+    {
+      "id": "火药",
+      "output": "火药",
+      "outputQuantity": 4,
+      "ingredients": [
+        {
+          "name": "木炭",
+          "quantity": 10
+        },
+        {
+          "name": "硫磺",
+          "quantity": 3
+        },
+        {
+          "name": "硝化甘油",
+          "quantity": 1
+        }
+      ],
+      "craftTime": 300,
+      "station": "化学站"
+    }
+  ],
+  "categories": {
+    "铜": "Materials",
+    "12Ga M1大砂弹": "Ammo",
+    "火药": "Materials",
+    "塑料瓶儿": "Materials",
+    "雷酸汞": "Materials",
+    "铅": "Materials",
+    "木炭": "Materials",
+    "硫磺": "Materials",
+    "硝化甘油": "Materials"
+  },
+  "lastUpdated": 1768378057245
+}
